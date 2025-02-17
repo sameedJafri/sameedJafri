@@ -45,17 +45,19 @@ python, Node.js, and springBoot with java for the backend. PostgreSQL, firebase,
   <img src="https://skillicons.dev/icons?i=java,angular,py,kotlin,bootstrap,c,eclipse,html,nestjs,firebase,androidstudio" alt="java,angular,python,mysql,bootstrap,c,eclipse,flask,html,idea,nestjs"/>
 </div>
 
-<!-- GitHub Streak Section -->
+<!-- GitHub Streak Section
 <h2 align="center">GitHub Streak</h2>
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=sameedJafri&theme=dark-smoky&background=000000" alt="github streak"/>
 </p>
+--->
 
-<!-- GitHub Trophies Section -->
+<!-- GitHub Trophies Section 
 <h2 align="center">GitHub Trophies</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sameedJafri&theme=onestar&row=1" alt="github trophies"/>
 </p>
+-->
 
 <!-- Bottom Header -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />

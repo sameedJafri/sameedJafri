@@ -58,7 +58,4 @@
 -->
 
 <!-- Bottom Header -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-<div align="center">
-  <img src="https://raw.githubusercontent.com/FajarKim/FajarKim/master/images/line.svg?sanitize=true"/>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F20404&height=120&section=footer"/>

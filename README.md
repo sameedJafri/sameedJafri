@@ -17,18 +17,18 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&color=F20404&width=435&height=100&lines=Full+Stack+Developer;Computer+Science+Student;Tech+Enthusiast" alt="error ocurred..." />
   </a>
   <a href="https://github.com/sameedJafri">   
-    <img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="170">
+    <img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="170" style="color: #F20404;">
   </a>
 </div>
 <p align="left">Hi, I'm Sameed Jafri a fourth year Computer Science student at the University of Ottawa. I have experience in full-stack development. 
 </p>
 <p align="center">I am passionate about cyberSecurity currently working on my skill-set in this domain!</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="color: #F20404;" >
 
 <!-- Technology Stack Section -->
 <h3 align="center">My Stack</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,spring,fastapi,ts,postgres," alt="react,spring,fastapi,typescript,postgres"/>
+  <img src="https://skillicons.dev/icons?i=react,spring,fastapi,ts,py,java,postgres," alt="react,spring,fastapi,typescript,postgres"/>
 </div>
 
 <!-- Environment Section -->

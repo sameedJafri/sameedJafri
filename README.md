@@ -17,7 +17,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&color=F20404&width=435&height=100&lines=Full+Stack+Developer;Computer+Science+Student;Tech+Enthusiast" alt="error ocurred..." />
   </a>
   <a href="https://github.com/sameedJafri">   
-    <img align="right" src="pfp_gif.gif"/>
+    <img align="right" src="pfp_gif.gif" width="150px"/>
   </a>
 </div>
 <p align="left">Hi, I'm Sameed Jafri a fourth year Computer Science student at the University of Ottawa. I have experience in full-stack development. 

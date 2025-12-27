@@ -17,12 +17,12 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&color=F20404&width=435&height=100&lines=Full+Stack+Developer;Computer+Science+Student;Tech+Enthusiast" alt="error ocurred..." />
   </a>
   <a href="https://github.com/sameedJafri">   
-    <img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="170" style="color: #F20404;">
+    ![pfp_gif](https://github.com/user-attachments/assets/28d5c6a9-b827-466c-b194-e830c74e332a)
   </a>
 </div>
 <p align="left">Hi, I'm Sameed Jafri a fourth year Computer Science student at the University of Ottawa. I have experience in full-stack development. 
 </p>
-<p align="center">I am passionate about cyberSecurity currently working on my skill-set in this domain!</p>
+<p align="center">I am passionate about cyberSecurity currently working machine learning applications in this domain!</p>
 <hr/>
 
 <!-- Technology Stack Section -->

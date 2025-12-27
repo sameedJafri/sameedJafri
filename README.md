@@ -23,7 +23,7 @@
 <p align="left">Hi, I'm Sameed Jafri a fourth year Computer Science student at the University of Ottawa. I have experience in full-stack development. 
 </p>
 <p align="center">I am passionate about cyberSecurity currently working on my skill-set in this domain!</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="color: #F20404;" >
+<hr/>
 
 <!-- Technology Stack Section -->
 <h3 align="center">My Stack</h3>

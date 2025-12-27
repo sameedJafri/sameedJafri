@@ -22,7 +22,7 @@
 </div>
 <p align="left">Hi, I'm Sameed Jafri a fourth year Computer Science student at the University of Ottawa. I have experience in full-stack development. 
 </p>
-<p align="center">I am passionate about cyberSecurity currently working machine learning applications in this domain!</p>
+<p align="center">I am passionate about cyberSecurity currently working on machine learning applications in this domain!</p>
 <hr/>
 
 <!-- Technology Stack Section -->

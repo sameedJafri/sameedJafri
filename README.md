@@ -20,28 +20,29 @@
     <img align="right" src="pfp_gif.gif" width="150px"/>
   </a> -->
 </div>
-<p align="left">Hi, I'm Sameed Jafri, A Computer Science student at the University of Ottawa. 
-</p>
-<p align="center">1+ years of experience in full-stack software development. Currently focusing on java backend developement</p>
+<div>
+  <p align="left">Hi, I'm Sameed Jafri, A Computer Science graduate from the University of Ottawa.</p>
+  <p align="left">I have 1+ years of experience in full-stack software development. Currently focusing on java backend developement</p>  
+</div>
 <hr/>
 
 <!-- Technology Stack Section -->
 <h3 align="center">My Stack</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,spring,fastapi,ts,py,java,postgres," alt="react,spring,fastapi,typescript,postgres"/>
+  <img src="https://skillicons.dev/icons?i=react,spring,ts,java,postgres," alt="react,spring,fastapi,typescript,postgres"/>
 </div>
 
 <!-- Environment Section -->
 <h3 align="center">My Environment</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,windows,ubuntu,docker" alt="git,vscode,linux,vercel,postman,docker"/>
+  <img src="https://skillicons.dev/icons?i=git,vscode,windows,linux,docker,kubernetes" alt="git,vscode,linux,vercel,postman,docker"/>
 </div>
 
 <!-- Languages and Other Knowledge Section -->
-<h3 align="center">Languages and Other Knowledge</h3>
+<!-- <h3 align="center">Languages and Other Knowledge</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=angular,py,java,kotlin,c++,html,firebase,androidstudio" alt="java,angular,python,mysql,bootstrap,c,eclipse,flask,html,idea,nestjs"/>
-</div>
+  <img src="https://skillicons.dev/icons?i=py, " alt="java,angular,python,mysql,bootstrap,c,eclipse,flask,html,idea,nestjs"/>
+</div>  -->
 
 <!-- GitHub Streak Section
 <h2 align="center">GitHub Streak</h2>

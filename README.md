@@ -16,13 +16,13 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&color=F20404&width=435&height=100&lines=Full+Stack+Developer;Computer+Science+Student;Tech+Enthusiast" alt="error ocurred..." />
   </a>
-  <a href="https://github.com/sameedJafri">   
+  <!-- <a href="https://github.com/sameedJafri">   
     <img align="right" src="pfp_gif.gif" width="150px"/>
-  </a>
+  </a> -->
 </div>
-<p align="left">Hi, I'm Sameed Jafri a fourth year Computer Science student at the University of Ottawa. I have experience in full-stack development. 
+<p align="left">Hi, I'm Sameed Jafri, A Computer Science student at the University of Ottawa. 
 </p>
-<p align="center">I am passionate about cyberSecurity currently working on machine learning applications in this domain!</p>
+<p align="center">1+ years of experience in full-stack software development. Currently focusing on java backend developement</p>
 <hr/>
 
 <!-- Technology Stack Section -->

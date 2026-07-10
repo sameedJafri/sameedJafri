@@ -1,5 +1,5 @@
 <!-- Capsule Render Header -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F20404&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#46284a&height=120&section=header"/>
 
 <!-- Social Links and Badges -->
 <div align="left">
@@ -14,7 +14,7 @@
 <!-- Introduction -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&color=F20404&width=435&height=100&lines=Full+Stack+Developer;Computer+Science+Student;Tech+Enthusiast" alt="error ocurred..." />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&color=46284a&width=435&height=100&lines=Full+Stack+Developer;Computer+Science+Student;Tech+Enthusiast" alt="error ocurred..." />
   </a>
   <!-- <a href="https://github.com/sameedJafri">   
     <img align="right" src="pfp_gif.gif" width="150px"/>
@@ -59,4 +59,4 @@
 -->
 
 <!-- Bottom Header -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F20404&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#46284a&height=120&section=footer"/>

@@ -22,7 +22,7 @@
 </div>
 <div>
   <p align="left">Hi, I'm Sameed Jafri, A Computer Science graduate from the University of Ottawa.</p>
-  <p align="left">I have 1+ years of experience in full-stack software development. Currently focusing on java backend developement</p>  
+  <p align="left">I have 1+ years of experience in software development. Currently focusing on java backend developement</p>  
 </div>
 <hr/>
 
